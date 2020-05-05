@@ -1,0 +1,10 @@
+---
+layout: post
+title: "About Us"
+---
+
+<div>
+<p style="margin-top:3em">
+Established in 2013, We are a Boutique Agency ( A high end software shop ) focused on building Maitainable and Quaity Products which can scale on demand and with time.
+</p>
+</div>

@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Our Services"
+---
+
+<div id="content"  style="background:antiquewhite;padding:1em">
+	<div>
+		<p>Better Life creates leading web and mobile apps across industries including Primary Health, Retail and Financial Services. Our experience includes building both design intensive (mobile apps, web applications) and process intensive (ERPs, PoS systems, workflow automation tools) software. We’ve worked with enterprises, start-ups and not-for-profit companies to deliver successful end-to-end projects encompassing development, design, consulting, team enablement and technology stack migration.</p>
+	</div>
+	<div class="table">
+    <section>
+    <div class="icon">
+    	<i class="fa fa-users"></i>
+    </div>
+    <div class="details">
+    <h4>CONSULTING</h4>
+      <ul>
+      	<li>Product Design & Strategy Workshops</li>
+      	<li>Feasibility Studies</li>
+      </ul>
+     </div>
+    </section>
+    <section>
+    	<div class="icon">
+    	<i class="fa fa-lightbulb-o"></i>
+    </div>
+    	<div class="details">
+  	<h4>STRATEGY</h4>
+	  <ul>
+	  	<li>Research</li>
+	  	<li>Requirements Gathering</li>
+	  	<li>Stakeholder Workshops</li>
+	  	<li>Content & Editorial Strategy</li>
+	  </ul>
+	  </div>
+	</section>
+    <section>
+    	<div class="icon">
+    	<i class="fa fa-wrench"></i>
+    	</div>
+    	<div class="details">
+  	<h4>DESIGN</h4>
+	  <ul>
+	  	<li>Web and Mobile Software</li>
+	  	<li>Multi-Device User Experience</li>
+	  	<li>Responsive Web Design</li>
+	  	<li>Editorial Design</li>
+	  </ul>
+	  </div>
+	</section>
+    <section>
+    	<div class="icon">
+    		<i class="fa fa-terminal"></i>
+    	</div>
+    	<div class="details">
+  	<h4>DEVELOPMENT</h4>
+	  <ul>
+	  	<li>Prototyping</li>
+	  	<li>Back end & Front end Development</li>
+	  	<li>Customization & Integration of Third Party Tools</li>
+	  	<li>Launch Support</li>
+	  </ul>
+	  </div>
+	</section>
+    </div>
+</div>
