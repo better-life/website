@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://better-life.co.in" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+google_analytics: UA-45662789-1
 theme: minima
 plugins:
   - jekyll-feed
